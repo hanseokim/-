@@ -10,7 +10,8 @@ igem/
 │   ├── README.md       目的・各サイクルの手法・結果・考察・参考文献
 │   ├── figures/        図
 │   └── code/           シミュレーションコード
-└── references/         他チームの wiki・Model ページの調査・審査対策ベンチマーク
+├── references/          他チームの wiki・Model ページの調査・審査対策ベンチマーク
+└── judging-prep/        自チーム 2026 wiki Model ページの審査対応・想定質問集
 ```
 
 ## モデル一覧
@@ -24,3 +25,9 @@ igem/
 | ドキュメント | 内容 |
 | --- | --- |
 | [references/2025-mcgill-cohera-model-qa.md](references/2025-mcgill-cohera-model-qa.md) | 2025 McGill「CoHera」（Grand Prize受賞）Modelページの想定質問集 |
+
+## 自チーム審査対策
+
+| ドキュメント | 内容 |
+| --- | --- |
+| [judging-prep/2026-keio-model-qa.md](judging-prep/2026-keio-model-qa.md) | 2026 Keio Japan「One Direction」公開wiki Modelページ（拡散/MD/細胞凝集の3モデル）に対する想定質問集 |
