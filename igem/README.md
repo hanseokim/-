@@ -25,6 +25,8 @@ igem/
 | ドキュメント | 内容 |
 | --- | --- |
 | [references/2025-mcgill-cohera-model-qa.md](references/2025-mcgill-cohera-model-qa.md) | 2025 McGill「CoHera」（Grand Prize受賞）Modelページの想定質問集 |
+| [references/2024-warwick-model-qa.md](references/2024-warwick-model-qa.md) | 2024 Warwick「ランタノイド回収（走化性利用）」Modelページの想定質問集 |
+| [references/2025-william-and-mary-model-qa.md](references/2025-william-and-mary-model-qa.md) | 2025 William & Mary「AQUAINT（水環境でのシャーシ生存予測）」Modelページの想定質問集 |
 
 ## 自チーム審査対策
 
