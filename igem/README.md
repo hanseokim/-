@@ -27,6 +27,9 @@ igem/
 | [references/2025-mcgill-cohera-model-qa.md](references/2025-mcgill-cohera-model-qa.md) | 2025 McGill「CoHera」（Grand Prize受賞）Modelページの想定質問集 |
 | [references/2024-warwick-model-qa.md](references/2024-warwick-model-qa.md) | 2024 Warwick「ランタノイド回収（走化性利用）」Modelページの想定質問集 |
 | [references/2025-william-and-mary-model-qa.md](references/2025-william-and-mary-model-qa.md) | 2025 William & Mary「AQUAINT（水環境でのシャーシ生存予測）」Modelページの想定質問集 |
+| [references/2025-kyoto-coco-model-qa.md](references/2025-kyoto-coco-model-qa.md) | 2025 Kyoto「COCO」（鳥インフルエンザ耐性ニワトリ）Modelページの想定質問集 |
+| [references/2025-izju-china-focas-model-qa.md](references/2025-izju-china-focas-model-qa.md) | 2025 IZJU-China「FoCas」（DNAオリガミ+CRISPRで薬剤耐性遺伝子除去）Modelページの想定質問集 |
+| [references/2025-heidelberg-phoenix-model-qa.md](references/2025-heidelberg-phoenix-model-qa.md) | 2025 Heidelberg「Phoenics」（固形がん向け合成免疫細胞）Modelページの想定質問集 |
 
 ## 自チーム審査対策
 
